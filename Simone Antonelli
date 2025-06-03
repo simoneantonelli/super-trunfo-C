@@ -2,9 +2,12 @@
 
 int main () {
 int população;
+
 char cidade [4];
 char estado [8];
+
 float pib;
+
 int pontos_turísticos;
 char codigo_de_cartas;
 }
