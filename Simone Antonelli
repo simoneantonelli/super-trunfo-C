@@ -7,3 +7,4 @@ char estado [8];
 float pib;
 int pontos_turísticos;
 char codigo_de_cartas;
+}
